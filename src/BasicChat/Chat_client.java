@@ -27,7 +27,7 @@ public class Chat_client extends JFrame {
         this.setVisible(true);
         this.setDefaultCloseOperation(3);
         this.setLocation(10,10);
-        this.setTitle("Client");
+        this.setTitle("Server");
         components();
     }
 
